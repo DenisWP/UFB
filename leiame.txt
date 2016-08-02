@@ -1,0 +1,36 @@
+Trabalho apresentado a disciplina: Tecnicas de Desenvolvimento WE
+Professor: Jean
+
+Aluno: Denis Wilson Pinto
+Período: 8º Período do Curso de Engenharia de Computação 
+Matrícula: 121-018827
+
+--
+
+Para executar o projeto, deverá ser criado uma tabela "ufb". 
+
+Dentro dela, criar tres tabelas:
+
+- administrator
+- candidatos 
+- cursos
+
+Os scripts SQL com os campos de cada tabela estão na pasta "Scripts". 
+
+
+ATENÇÃO
+
+Os cursos ofertados pela UFB que terão vínculo com as páginas "cursos", são apenas os apresentados no script SQL. Nada impede do usuário
+cadastrar novos cursos, porém, não será criada uma página para eles, pois não estaram referenciados na página php. (As páginas deverão ser 
+criadas manualmente) 
+
+As demais páginas, vestibular, cadastrar curso, excluir curso, editar curso ... todas estão interligadas ao banco de dados. 
+
+--
+
+Instalar o XAMPP e PHPMYADMIN
+Salvar a pasta "tdwDenisFinal" dentro da pasta xampp/htdocs/
+
+Após inicializado o localhost, executar em um navegador. (preferencialmente o Google Chrome, devido a funções de validação)
+
+
